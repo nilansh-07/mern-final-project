@@ -1,0 +1,16 @@
+{
+  "name": "creatingapi",
+  "version": "1.0.0",
+  "description": "\"This is simple Api Creation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Mohsin Ahmad\"",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.10.0"
+  }
+}
